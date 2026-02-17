@@ -1,4 +1,10 @@
-## Hi there 👋
+
+
+<p align="center">
+<img width="550" height="1160" alt="image" src="https://github.com/user-attachments/assets/e2fdabd8-714f-4c64-bd26-00823995b37f" />
+
+<p align="center">
+ ${\textsf{\color{#880808}Chance}}$  ㅤㅤ︵︵ㅤㅤ  ${\textsf{\color{#AA4A44}Sterling}}$ㅤ
 
 <!--
 **chancesluck/chancesluck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
